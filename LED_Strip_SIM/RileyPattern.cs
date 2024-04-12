@@ -39,7 +39,7 @@ public class RileyPattern : Pattern, IPattern // should always inherit from Patt
         {
             SetSolid(ref array);
         }
-        _iterations+=-.2;
+        _iterations = (_iterations + 0.15) % (2 * Math.PI);
         
         for(int i = 0; i< array.GetLength(0); i++)
         {
