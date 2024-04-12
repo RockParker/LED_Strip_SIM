@@ -28,15 +28,16 @@ namespace LED_Strip_SIM
             
             
             var patternHost = new VerticalPatterns();
+            var patternHost2 = new RileyPattern();
 
             _timer = new DispatcherTimer(); //  dispatcher timer runs on the UI Thread
             _timer.Tick += (sender, args) =>
             {
-                patternHost.RunPattern(ref _leds);
+                patternHost2.RunPattern(ref _leds);
             };
             _timer.Start();
 
-            SpeedSlider.Value = 150;
+            SpeedSlider.Value = 400;
         }
 
         /// <summary>

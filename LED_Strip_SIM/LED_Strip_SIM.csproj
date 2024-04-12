@@ -54,6 +54,7 @@
         </ApplicationDefinition>
         <Compile Include="IPattern.cs" />
         <Compile Include="Pattern.cs" />
+        <Compile Include="RileyPattern.cs" />
         <Compile Include="VerticalPatterns.cs" />
         <Page Include="MainWindow.xaml">
             <Generator>MSBuild:Compile</Generator>

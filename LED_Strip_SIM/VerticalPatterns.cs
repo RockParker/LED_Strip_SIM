@@ -30,11 +30,11 @@ public class VerticalPatterns : Pattern, IPattern // should always inherit from 
         _currentPatternIndex = ++_currentPatternIndex % _delegates.Count;
     }
     
-    private static void Pattern1(ref Rectangle[,] ledArray) // example of a pattern
+    private static void Pattern1(ref Rectangle[,] ledArray)             // example of a pattern
     {
-        for (int i = 0; i < ledArray.GetLength(0); i++) // iterates the strips
+        for (int i = 0; i < ledArray.GetLength(0); i++)         // iterates the strips
         {
-            for (int j = 0; j < ledArray.GetLength(1) ; j++) // iterates the leds
+            for (int j = 0; j < ledArray.GetLength(1) ; j++)    // iterates the leds
             {
                 var led = ledArray[i, j];
                 var colour = (led.Fill as SolidColorBrush)!.Color;
@@ -45,7 +45,7 @@ public class VerticalPatterns : Pattern, IPattern // should always inherit from 
     }
 
     private static int _previousRow = 0;
-    private static void Pattern2(ref Rectangle[,] ledArray) // uses the previous row to determine the next row
+    private static void Pattern2(ref Rectangle[,] ledArray)             // uses the previous row to determine the next row
     {
         
         for (int j = 0; j < ledArray.GetLength(0) ; j++)
