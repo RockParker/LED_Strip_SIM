@@ -1,0 +1,15 @@
+C:\Users\rossy\IDE Files\RiderProjects\LED_Strip_SIM\LED_Strip_SIM\bin\Debug\LED_Strip_SIM.exe.config
+C:\Users\rossy\IDE Files\RiderProjects\LED_Strip_SIM\LED_Strip_SIM\bin\Debug\LED_Strip_SIM.exe
+C:\Users\rossy\IDE Files\RiderProjects\LED_Strip_SIM\LED_Strip_SIM\bin\Debug\LED_Strip_SIM.pdb
+C:\Users\rossy\IDE Files\RiderProjects\LED_Strip_SIM\LED_Strip_SIM\obj\Debug\LED_Strip_SIM.csproj.AssemblyReference.cache
+C:\Users\rossy\IDE Files\RiderProjects\LED_Strip_SIM\LED_Strip_SIM\obj\Debug\MainWindow.g.cs
+C:\Users\rossy\IDE Files\RiderProjects\LED_Strip_SIM\LED_Strip_SIM\obj\Debug\App.g.cs
+C:\Users\rossy\IDE Files\RiderProjects\LED_Strip_SIM\LED_Strip_SIM\obj\Debug\LED_Strip_SIM_MarkupCompile.cache
+C:\Users\rossy\IDE Files\RiderProjects\LED_Strip_SIM\LED_Strip_SIM\obj\Debug\LED_Strip_SIM_MarkupCompile.lref
+C:\Users\rossy\IDE Files\RiderProjects\LED_Strip_SIM\LED_Strip_SIM\obj\Debug\MainWindow.baml
+C:\Users\rossy\IDE Files\RiderProjects\LED_Strip_SIM\LED_Strip_SIM\obj\Debug\LED_Strip_SIM.g.resources
+C:\Users\rossy\IDE Files\RiderProjects\LED_Strip_SIM\LED_Strip_SIM\obj\Debug\LED_Strip_SIM.Properties.Resources.resources
+C:\Users\rossy\IDE Files\RiderProjects\LED_Strip_SIM\LED_Strip_SIM\obj\Debug\LED_Strip_SIM.csproj.GenerateResource.cache
+C:\Users\rossy\IDE Files\RiderProjects\LED_Strip_SIM\LED_Strip_SIM\obj\Debug\LED_Strip_SIM.csproj.CoreCompileInputs.cache
+C:\Users\rossy\IDE Files\RiderProjects\LED_Strip_SIM\LED_Strip_SIM\obj\Debug\LED_Strip_SIM.exe
+C:\Users\rossy\IDE Files\RiderProjects\LED_Strip_SIM\LED_Strip_SIM\obj\Debug\LED_Strip_SIM.pdb
